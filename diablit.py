@@ -14,7 +14,7 @@ And it's part of my portolio: https://nbviewer.jupyter.org/github/BrunoPTeruya/P
 * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 * BloodPressure: Diastolic blood pressure (mm Hg)
 * BMI: Body mass index (weight in kg/(height in m)^2)
-* DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history. Higher Pedigree Function means patient is more likely to have diabetes.
+* DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history. Higher Pedigree Function means patient is more likely to have diabetes. (More information on https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2245318&blobtype=pdf)
 * Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0. Ones are for diabetics
 """)
 
