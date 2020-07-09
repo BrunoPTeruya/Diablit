@@ -12,7 +12,7 @@ And it's part of my portolio: https://nbviewer.jupyter.org/github/BrunoPTeruya/P
 ## Features
 * Pregnancies: Number of times pregnant
 * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-* BloodPressure
+* BloodPressure: Diastolic blood pressure (mm Hg)
 * BMI: Body mass index (weight in kg/(height in m)^2)
 * DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history. Higher Pedigree Function means patient is more likely to have diabetes.
 * Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0. Ones are for diabetics
