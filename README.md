@@ -1,2 +1,2 @@
 # Diablit
-webapp
+webapp targeting diabetes
